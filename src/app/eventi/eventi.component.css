@@ -1,0 +1,31 @@
+.service_item{
+    padding: 60px 30px;
+    text-align: center;
+    background: #263238;
+    padding: 15px;
+    border-radius: 20px;
+    /* background-color: #263238 blue-grey darken-4; */
+}
+
+/* .eventi{
+    color: white;
+} */
+
+#uno{
+    height: 300px;
+    background-image: url(../../img/catering.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
+
+#due{
+    height: 300px;
+    background-image: url(../../img/laurea.jpg);
+    background-size: cover;
+}
+
+#tre{
+    height: 300px;
+    background-image: url(../../img/happyhour.jpg);
+    background-size: cover;
+}

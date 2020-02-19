@@ -1,0 +1,17 @@
+#pag1{
+    width: 45%;
+    height: 800px;
+    background-image: url(../../img/menu1.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+#pag2{
+    width: 45%;
+    height: 800px;
+    background-image: url(../../img/menu2.PNG);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
